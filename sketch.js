@@ -19,7 +19,7 @@ window.addEventListener('DOMContentLoaded', () => {
     // ============================================================
     // ВИЗУАЛЬНАЯ КОНФИГУРАЦИЯ (для градиента)
     // ============================================================
-    const GRADIENT_START_COLOR = '#F5F0E6'; // Светло-бежевый
+    const GRADIENT_START_COLOR = '#faf9f6'; // Светло-бежевый
     const GRADIENT_END_COLOR = '#EAF2F8';   // Светло-голубой
     const PARTICLE_COLOR = '#4A4A4A';       // Темно-серый
     const NUM_PARTICLES = 500;
