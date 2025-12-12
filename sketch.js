@@ -225,31 +225,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // // Этот код выполняется, когда вся страница (HTML) загружена
 // window.addEventListener('DOMContentLoaded', () => {
 
